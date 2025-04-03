@@ -1,3 +1,13 @@
+# Isobel Gilham,,,,,,,,,,
+# Site= Cairngorms plot name ,,,,,,,,,,
+# Repeat= sample no. within same tree,,,,,,,,,,
+"# sample_loc= Base (B), non-base (T) sample location on log ",,,,,,,,,,
+"# CO2_fin/0= final/initial carbon dioxide concentration measurement after/before 2 weeks incubation, in ppm ",,,,,,,,,,
+"# CH4_fin/0= final/intial methane concentration measurement after/before 2 weeks incubation, in ppm ",,,,,,,,,,
+# atmos_CO2/CH4_fin/0= atmospheric CO2 measured in empty exetainer,,,,,,,,,,
+#,,,,,,,,,,
+#,,,,,,,,,,
+#,,,,,,,,,,
 Site,Tree,Repeat,sample_location,CO2_fin,CH4_fin,atmos_CO2_fin,atmos_CH4,CO2_0,CH4_0,atmos_CO2_0
 A5,5,1,B,11268,2.284,690,2.154,767,2.192,634
 A5,1,3,B,10832,2.332,690,2.154,767,2.192,634
